@@ -1,0 +1,83 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+nav{
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+}
+section{
+    padding-top: 5rem;
+}
+
+#home{
+    background-color: black;
+}
+
+#about{
+    background-color: aliceblue;
+}
+
+.about-img img{
+    display: flex;
+    margin-top: 15rem;
+    margin-left: 50px;
+    height: 50vh;
+    width: 50vh;
+}
+
+.about-textt{
+    color: black;
+}
+
+#service{
+    color: black;
+    padding: 2rem;
+
+}
+
+#know{
+    background-color: aliceblue;
+}
+
+.card-text{
+    color: black;
+}
+
+#con{
+    color: aliceblue;
+    text-align: center;
+}
+
+#contact{
+    background-color: black;
+}
+
+.btn{
+    background-color: aliceblue;
+    color: black;
+    width: 140px;
+}
+.card:hover{
+    background-color: black;
+}
+.card a{
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+}
+.card-body:hover p{
+    color: aliceblue;
+}
+
+#about{
+    display: flex;
+}
